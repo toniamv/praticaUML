@@ -12,8 +12,12 @@
 Funcionalidades a Modelar
 **Reprodutor Musical**
 Métodos: _tocar(), pausar(), selecionarMusica(String musica)_
+
+
 **Aparelho Telefônico**
 Métodos: _ligar(String numero), atender(), iniciarCorreioVoz()_
+
+
 **Navegador na Internet**
 Métodos: _exibirPagina(String url), adicionarNovaAba(), atualizarPagina()_
 
